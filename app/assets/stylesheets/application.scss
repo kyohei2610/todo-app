@@ -1,0 +1,28 @@
+@import 'header';
+@import 'form';
+
+.container {
+    width: 414px;
+    height: 921px;
+    background: #FFFFFF;
+}
+
+/* Boards */
+
+.boards{
+    position: absolute;
+    width: 56px;
+    height: 25px;
+    left: 30px;
+    top: 17px;
+
+    font-family: Avenge;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+
+    /* identical to box height */
+
+    color: #000000;
+}
